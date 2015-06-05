@@ -1,0 +1,12 @@
+{
+  "name": "form-encoded-data",
+  "version": "0.0.1",
+  "description": "a middleware to extract application/x-www-form-urlencoded",
+  "engines": {
+    "node": "0.12",
+    "npm": "1.4"
+  },
+  "dependencies": {
+    "lodash": "3.9.3",
+  }
+}
