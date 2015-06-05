@@ -7,6 +7,6 @@
     "npm": "1.4"
   },
   "dependencies": {
-    "lodash": "3.9.3",
+    "lodash": "3.9.3"
   }
 }
