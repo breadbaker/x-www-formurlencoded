@@ -1,5 +1,5 @@
 {
-  "name": "form-encoded-data",
+  "name": "x-www-formurlencoded",
   "version": "0.0.1",
   "description": "a middleware to extract application/x-www-form-urlencoded",
   "engines": {
